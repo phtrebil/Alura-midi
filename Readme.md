@@ -1,0 +1,1 @@
+Esse site foi desenvolvido durante o curso de javaSrcipt da Alura. A parte de HTML e CSS já veio desenvolvida pelo curso, assim formando um beat-box, cabendo ao aludo desenvolver o código em JS para vincular os áudios aos botões do Beat-box.
